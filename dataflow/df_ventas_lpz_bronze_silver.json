@@ -1,5 +1,5 @@
 {
-	"name": "df_ventas_lpz-bronze_silver",
+	"name": "df_ventas_lpz_bronze_silver",
 	"properties": {
 		"folder": {
 			"name": "bronze"
